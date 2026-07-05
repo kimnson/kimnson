@@ -1,6 +1,12 @@
+<div align="center">
 
+<sup>*(drawing by me)*<sup>
 
-<img width="536" height="536" alt="Untitled5_20260625152355" src="https://github.com/user-attachments/assets/fde842df-bbd6-4718-a33a-e98efac3d156" />  
+*"WTFARE U DOING IN MY HOUSE KIMI"* *"you came"*
+
+<img width="336" height="336" alt="Untitled5_20260625152355" src="https://github.com/user-attachments/assets/fde842df-bbd6-4718-a33a-e98efac3d156" />  
+
+[新book](https://aquamarine.atabook.org) ᛝ [(WIP) rentry](https://rentry.co/kimnson) 
  
 
 <!--
