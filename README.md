@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<p align=center
+
+<img width="736" height="736" alt="Untitled5_20260625152355" src="https://github.com/user-attachments/assets/fde842df-bbd6-4718-a33a-e98efac3d156" />
+
 
 <!--
 **kimnson/kimnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
