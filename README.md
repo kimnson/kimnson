@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kimnson&color=lightgrey&style=plastic&label=icecake&base=225)
 
-[新book](https://aquamarine.atabook.org) ᛝ [(WIP) rentry](https://rentry.co/kimnson) ᛝ [rentry](https://rentry.co/kimijenson) 
+[新book](https://aquamarine.atabook.org) ᛝ [rentry](https://rentry.co/kimijenson) 
  
 
 <!--
