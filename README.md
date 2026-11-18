@@ -1,10 +1,12 @@
 <div align="center">
 
-<sup>*(drawing by me)*<sup>
+<sup>*(drawing by @saintbutton)*<sup>
+
 
 *"WTFARE U DOING IN MY HOUSE KIMI"* *"you came"*
 
-<img width="336" height="336" alt="Untitled5_20260625152355" src="https://github.com/user-attachments/assets/fde842df-bbd6-4718-a33a-e98efac3d156" />  
+<img width="535" height="402" alt="IMG_7218" src="https://github.com/user-attachments/assets/b8542eb0-4dbb-4475-a202-41e8ebd8f220" />
+
 
 ![](https://komarev.com/ghpvc/?username=kimnson&color=lightgrey&style=plastic&label=icecake&base=225)
 
@@ -12,7 +14,7 @@
  
 <div align="center">
 
-butch lesb kimi and lesb jenson oooou m drooling
+
 <!--
 **kimnson/kimnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
