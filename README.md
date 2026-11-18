@@ -14,6 +14,7 @@
  
 <div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315kdja4q2js4admpb7sjk7utkla&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **kimnson/kimnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
